@@ -1,7 +1,9 @@
 # Algorithm 1: Gradient Ascent
+
+# fixed alpha
 # def = gradientAscent()
 
-
+# line search alpha
 
 
 
